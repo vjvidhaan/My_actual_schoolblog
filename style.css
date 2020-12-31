@@ -1,0 +1,107 @@
+
+body{
+    background-image: url("hh.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align:center;
+}
+
+
+p{
+    color:darkblue;
+    
+}
+
+#img_about{
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+
+h1{
+    color:white;
+}
+
+#div_about,#div_special,#div_library,#div_cafetaria,#div_princi{
+    background-color: lightblue;
+    border-radius: 70px;
+    padding-bottom: 10px;
+    width:800px;
+}
+#myNavbar{
+    z-index: 10px;
+    position: fixed;
+    cursor: pointer;
+    top: 0px;
+    background: white;
+    width: 100%;
+}
+#goodbooks{
+    font-weight: bold;
+    color:whitesmoke;
+
+}
+
+
+.links:hover {
+    font-size: 25px;
+    color: beige;
+}
+
+.links {
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+a {
+  
+    color: white;
+    text-shadow: 2px 2px gainsboro;
+
+}
+
+#e{
+    color:darkblue;
+    font-weight: bold;
+}
+
+.book{
+    cursor:pointer;
+}
+
+
+
+#cafeteria{
+    margin-top:400px;
+    
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.img-modal{
+
+    display: inline-block;
+}
+
+.p_modal{
+    margin-top: 10px;
+    color:slategray;
+}
+
+#row1{
+   margin-left:300px;
+}
+
+#contact_1{
+    margin-right:30px;
+    font-style: normal;
+    color:black;
+}
+
+#loc{
+    width:100%;
+}
